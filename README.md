@@ -1,4 +1,4 @@
-# eu_ror_model
+# glofas-ror-estimation-europe
 This is the repository of run-of-river daily generation estimation with referenced data from entose transparency platform, by GloFAS river discharge data.
 
 
